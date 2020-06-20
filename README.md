@@ -1,9 +1,7 @@
-![alt text](//i.imgur.com/9KrLLuG.png)
-
 #React App Videos
 Simple Application built with React.js that shows a list of categorized videos obtained from an API with Json
+![alt text](//i.imgur.com/9KrLLuG.png)
 
-![alt text](http://url/to/img.png)
 ## Installation
 Clone the project
 ```sh
